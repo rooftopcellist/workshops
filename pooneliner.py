@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+'''
+Usage:
+   python pooneliner.py /path/to/file.po
+'''
+
 import io
 import sys
 from babel.messages import pofile
